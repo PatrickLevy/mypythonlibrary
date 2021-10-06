@@ -1,0 +1,7 @@
+setup.py
+exoedgesource/__init__.py
+exoedgesource/myfunctions.py
+exoedgesource.egg-info/PKG-INFO
+exoedgesource.egg-info/SOURCES.txt
+exoedgesource.egg-info/dependency_links.txt
+exoedgesource.egg-info/top_level.txt
